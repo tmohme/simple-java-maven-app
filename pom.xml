@@ -7,6 +7,11 @@
   <version>1.0-SNAPSHOT</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
+  
+  <properties>
+	  <some>value</some>
+  </properties>
+	  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
